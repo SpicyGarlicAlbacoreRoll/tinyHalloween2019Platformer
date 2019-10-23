@@ -6,6 +6,11 @@ Took the music from an older unity project, background made by @moodycoodies
 
 VERSIONS:
 
+V.0.3 (Day 3)
+
+    Added more level
+    Music now loops
+
 V.0.2 (DAY 2)
 
     Added walking animation
