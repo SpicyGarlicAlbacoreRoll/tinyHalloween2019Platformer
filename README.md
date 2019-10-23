@@ -19,6 +19,7 @@ demo link:
 https://spicygarlicalbacoreroll.github.io/tinyHalloween2019Platformer/
 
 Controls (Keyboard):
+
     A/D: Movement
     SPACEBAR: Jump (hold to influence jump height)
     R: Reset position
