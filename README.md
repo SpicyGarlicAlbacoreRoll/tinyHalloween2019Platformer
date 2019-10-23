@@ -15,6 +15,10 @@ V.0.1 (DAY 1)
 
     Added placeholder level, music, etc
 
-
 demo link:
 https://spicygarlicalbacoreroll.github.io/tinyHalloween2019Platformer/
+
+Controls (Keyboard):
+    A/D: Movement
+    SPACEBAR: Jump (hold to influence jump height)
+    R: Reset position
