@@ -6,7 +6,13 @@ Took the music from an older unity project, background made by @moodycoodies
 
 VERSIONS:
 
-V.0.3 (Day 3)
+V.0.3.2 (Day 3)
+
+    Added enemies
+    Added jumping and bouncing off enemies
+    Added enemy movement script
+
+V.0.3.1 (Day 3)
 
     Added more level
     Music now loops
