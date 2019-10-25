@@ -6,6 +6,11 @@ Took the music from an older unity project, background made by @moodycoodies
 
 VERSIONS:
 
+V.0.4 (Day 4)
+
+    Edited the level further to make it more clear what safe falls look like
+    If player falls out of bounds near the end of the stage they will get teleported back to the start
+
 V.0.3.2 (Day 3)
 
     Added enemies
